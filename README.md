@@ -13,16 +13,11 @@ Three training scripts are available to run on Cora, Citeseer, and Pubmed.
 Run with following:
 
 ~~~bash
-```
 python train_cora.py
-```
 ~~~
 
 ```
-* cora: ~0.823 (paper: 0.815)
-* citeseer: ~0.705 (paper: 0.703)
-* pubmed: ~0.800 (paper: 0.790)
+* Cora: ~0.823 (paper: 0.815)
+* Citeseer: ~0.705 (paper: 0.703)
+* Pubmed: ~0.800 (paper: 0.790)
 ```
-
- 
-
